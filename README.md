@@ -1,1 +1,4 @@
-# legalrag.github.io
+# LegalRAG
+this is the official website
+
+
