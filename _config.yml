@@ -1,2 +1,5 @@
-theme: jekyll-theme-cayman
-baseurl: ""
+title: LegalRAG
+description: A project exploring Retrieval-Augmented Generation in the context of German law.
+theme: minima
+markdown: kramdown
+
