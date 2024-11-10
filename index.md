@@ -1,4 +1,4 @@
-# Legal Information Simplified: An Open-Source AI System
+# LegalRAG
 
 In an increasingly complex society, access to legal information is crucial to understand and assert one's rights and responsibilities. Many people, particularly laypeople, face the challenge of deciphering legal texts. The often difficult legal language and the use of numerous technical terms often lead to misunderstandings and unequal legal awareness. Long, complex sentences with numerous references to other laws make it difficult even for well-informed citizens to understand their rights and enforce them. Studies show that a large part of the population is forced to engage with original legal texts when legal questions arise.
 
