@@ -22,4 +22,3 @@ Unlike traditional large language models (LLMs), which rely on internal knowledg
 
 The project aims to present legal information in a way that is understandable and accessible to all citizens. By promoting legal education and facilitating access to legal knowledge, the AI system helps improve societal understanding of the law. In doing so, it contributes to a fairer and more transparent society.
 
-{% include goatcounter.html %}
